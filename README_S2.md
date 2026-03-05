@@ -128,4 +128,4 @@ Ouvrir `CMakeLists.txt` dans Qt Creator puis `Ctrl+R`.
 
 ---
 
-*BTS CIEL — 2024/2025*
+*BTS CIEL — 2025/2026*
